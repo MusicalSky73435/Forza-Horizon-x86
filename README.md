@@ -1,4 +1,4 @@
-#Forza Horizon static recompilation
+# Forza Horizon static recompilation
 
 Run:  ./launch.sh
 
